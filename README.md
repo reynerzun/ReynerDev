@@ -18,6 +18,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Java](https://img.shields.io/badge/-Java-blue)
 
+## My Skills
+- 🔹 C++
+
 ### DevOps
 ![GitHub](https://img.shields.io/badge/-GitHub-black)
 ![Docker](https://img.shields.io/badge/-Docker-blue)
