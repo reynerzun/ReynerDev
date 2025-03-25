@@ -3,8 +3,7 @@
 ## About Me
 🎓 I’m currently a 6th-semester student at Universitas Mercu Buana.  
 💼 I’m actively looking for an internship to gain new experiences.  
-🚀 Passionate about software development, UI/UX, and database management.  
-📩 Feel free to contact me at [your email or LinkedIn].  
+📩 Feel free to contact me at reynerjunistioumar@gmail.com.  
 
 
 ## 🛠 My Skill Set
